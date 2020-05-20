@@ -1,2 +1,3 @@
 # GrafkomG-SA2020-Tugas1
-tugas 1 - 672018412
+Nama  : Yosefhin Rayaruna Yungka
+NIM   : 672018412
