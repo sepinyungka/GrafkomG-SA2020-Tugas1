@@ -101,7 +101,7 @@ void display() {
 	glVertex2f(200, 400);
 	glVertex2f(225, 420);
 	glVertex2f(225, 420);
-	glVertex2f(250, 410);
+	glVertex2f(251, 410);
 	glEnd();
 
 
